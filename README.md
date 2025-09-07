@@ -52,5 +52,5 @@ The notebook shows the entire workflow starting from **scraping raw HTML** to bu
    git clone https://github.com/Mirhuseyn-Javadzada/Text-Summarization-Algorithm.git
    cd Text-Summarization-Algorithm
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mirhuseyn-Javadzada/UMICO_SCRAPPING_FILE/blob/main/UMICO_SCRAPPING_FILE.ipynb)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mirhuseyn-Javadzada/Umico_Scrapping/blob/main/UMICO_SCRAPPING_FILE.ipynb
 
