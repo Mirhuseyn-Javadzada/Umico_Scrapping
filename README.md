@@ -4,6 +4,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mirhuseyn-Javadzada/UMICO_SCRAPPING_FILE/blob/main/UMICO_SCRAPPING_FILE.ipynb)
 
 
+
 ## Overview  
 This project demonstrates how to collect product data from **Umico.az** using web scraping techniques and then clean the data for further analysis. The main goal is to extract useful product information (such as titles, prices, and descriptions) and prepare it in a structured format.  
 
